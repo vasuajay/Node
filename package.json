@@ -1,0 +1,8 @@
+{
+  "name": "Node-sample",
+  "version": "1.0.0",
+  "description": "Sample skeleton",
+  "main": "index.js",
+  "author": "Vasu Ajay",
+  "license": "MIT"
+}
